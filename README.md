@@ -2,8 +2,8 @@
 
 ### Gym management site.</br>
 The "AMDM" gym holds sports classes in three branches.</br>
-The site has an advanced authorization mechanism with three access levels - manager, coach and trainee.</br>
-The coach creates future workouts, the trainees sign up for the workouts they choose (as long as he has enough punches on his card) and the manager draws conclusions through reports and queries and has the most powerful permission in the system.</br>
+The site has an advanced authorization mechanism with three access levels - manager, trainer and trainee.</br>
+The trainer creates future workouts, the trainees sign up for the workouts (as long as he has enough punches on his card) and the manager draws conclusions through reports and queries and has the most powerful permission in the system.</br>
 Among the various things on the site you can find card management and training, search capabilities by several filters at once, use of the Twitter and Google Maps API and much more.
 </br></br></br></br>
 
