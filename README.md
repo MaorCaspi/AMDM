@@ -1,6 +1,6 @@
-# Final Project at Web Application Development. </br></br>
+# Final Project at Web Application Development.
 
-Gym management site.</br>
+### Gym management site.</br></br>
 The "AMDM" gym holds sports classes in three branches.</br>
 The site has an advanced authorization mechanism with three access levels - manager, coach and trainee.</br>
 The coach creates future workouts, the trainees sign up for the workouts they choose (as long as he has enough punches on his card) and the manager draws conclusions through reports and queries and has the most powerful permission in the system.</br>
