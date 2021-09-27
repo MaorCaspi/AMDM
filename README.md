@@ -9,7 +9,7 @@ Among the various things on the site you can find card management and training, 
 
 
 ## Demonstration:
-### ** Main index page: ** </br></br>
+### Main index page: </br></br>
 <div>
   <img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/%E2%80%8F%E2%80%8FMainIndex.JPG"</img>
 </div>
