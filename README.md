@@ -1,4 +1,4 @@
-# Final Project at Web Application Development.
+# Final Project at Web Application Development
 
 ### Gym management site.</br>
 The "AMDM" gym holds sports classes in three branches.</br>
