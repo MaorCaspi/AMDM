@@ -9,13 +9,21 @@ Among the various things on the site you can find card management and training, 
 
 ### Demonstration:
 ## Main index page:
-<img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/%E2%80%8F%E2%80%8FMainIndex.JPG"</img>
+<div>
+  <img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/%E2%80%8F%E2%80%8FMainIndex.JPG"</img>
+</div>
 
 ## Admin index page:
-<img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/AdminIndex.JPG"</img>
+<div>
+  <img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/AdminIndex.JPG"</img>
+</div>
 
 ## Trainee index page:
-<img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/%E2%80%8F%E2%80%8FTraineeIndex.JPG"</img>
+<div>
+  <img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/%E2%80%8F%E2%80%8FTraineeIndex.JPG"</img>
+</div>
 
 ## Tweets page:
-<img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/TweetsPage.JPG"</img>
+<div>
+  <img src="https://github.com/maya-assayag/AMDM/blob/master/Screen%20Cohesion/TweetsPage.JPG"</img>
+</div>
