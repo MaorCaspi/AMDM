@@ -1,5 +1,5 @@
-Final Project at Web Application Development. </br>
-Written in MVC .NET </br>
+###Final Project at Web Application Development. </br></br>
+
 Gym management site.</br>
 The "AMDM" gym holds sports classes in three branches.</br>
 The site has an advanced authorization mechanism with three access levels - manager, coach and trainee.</br>
